@@ -67,7 +67,7 @@
 
 <hr/>
 
-<img align="left" alt="Google" width="100px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="Google" width="100px" src="https://mystickermania.com/cdn/stickers/into-the-web/google-logo-512x512.png" />
 <img align="left" alt="W3school" width="60px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assests/w3school.png" />
 <img align="left" alt="gfg" width="90px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assets/geeksforgeeks-17.png" />
 <img align="left" alt="Udemy" width="60px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assets/udemy.webp" />
