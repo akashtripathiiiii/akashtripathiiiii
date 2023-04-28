@@ -12,11 +12,11 @@
 <hr>
 <h3 align="left">I am a Developer</h3>
 
-- 👨‍🏭 I’m currently pursuing **B-Tech** <br>
+- 👨‍🏭 I’m currently pursuing **B.Tech at Lovely Professional University** <br>
 - 🏫 I’m currently learning **Web Devlopment, Android Devlopment and DSA** <br>
 - 🙌 I’m looking to collaborate on **Web Development and Android Devlopment** <br>
 - 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
-- 🥅 2023 Goals: **Contribute in some open source Project as well as learning more and more things.** <br>
+- 🧑‍🎓 2024 Goals: **To get Placed** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
