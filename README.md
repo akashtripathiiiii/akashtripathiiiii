@@ -82,5 +82,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashtripathiiiii&show_icons=true&locale=en&theme=blue-green" alt="akashtripathiiiii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashtripathiiiii&" alt="akashtripathiiiii" /></p>
-<hr>
-<a href="http://www.github.com/akashtripathiiiii"><img src="https://activity-graph.herokuapp.com/graph?username=akashtripathiiiii&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
