@@ -69,10 +69,10 @@
 
 <img align="left" alt="Google" width="100px" src="https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw" />
 <img align="left" alt="W3school" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqlSxapF7Rb_Q7XDm__jGO0ESHLuuhQ-51w&usqp=CAU" />
-<img align="left" alt="gfg" width="90px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assets/geeksforgeeks-17.png" />
+<img align="left" alt="gfg" width="90px" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" />
 <img align="left" alt="Udemy" width="60px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" />
-<img align="left" alt="Codepen" width="60px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assets/social-32-512.webp" />
-<img align="left" alt="YouTube" width="60px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assets/youtube.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://blog.codepen.io/wp-content/uploads/2012/06/Black-Large.png" />
+<img align="left" alt="YouTube" width="60px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" />
 <img align="left" alt="coursera" width="90px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assests/coursera_logo_icon.png" />
 
 <br><br><br><br>
