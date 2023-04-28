@@ -73,7 +73,7 @@
 <img align="left" alt="Udemy" width="60px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" />
 <img align="left" alt="Codepen" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_logo_icon_169360.png" />
 <img align="left" alt="YouTube" width="60px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s48-rw" />
-<img align="left" alt="coursera" width="90px" src="https://github.com/akashtripathiiiii/akashtripathiiiii/blob/main/assests/coursera_logo_icon.png" />
+<img align="left" alt="coursera" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSULhsxEu_Mc7sTVBJSibDgD1YjzWk6XwUnYgeLD7YMErZf4rhSvSHaGN4XxE0_X5e59Xk&usqp=CAU" />
 
 <br><br><br><br>
 <hr>
