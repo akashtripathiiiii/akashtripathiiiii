@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Tripathi</h1>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer+And+Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer+||+Android+Developer)](https://git.io/typing-svg)
  
 </p>
 <hr>
