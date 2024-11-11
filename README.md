@@ -16,7 +16,6 @@
 - 🏫 I’m currently learning **Web Development, Android Development and DSA** <br>
 - 🙌 I’m looking to collaborate on **Web Development and Android Devlopment** <br>
 - 🤔 I’m looking for help with **DSA and Competitive Programming**<br>
-- 🧑‍🎓 2024 Goals: **To get Placed** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
