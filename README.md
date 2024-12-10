@@ -12,10 +12,10 @@
 <hr>
 <h3 align="left">I am a Developer</h3>
 
-- 👨‍🏭 I’m currently pursuing **B.Tech at Lovely Professional University** <br>
-- 🏫 I’m currently learning **Web Development, Android Development and DSA** <br>
-- 🙌 I’m looking to collaborate on **Web Development and Android Devlopment** <br>
-- 🤔 I’m looking for help with **DSA and Competitive Programming**<br>
+- 🎓 **B.Tech Graduate (2024)** from Lovely Professional University  
+- 🧑‍💻 Currently learning **Web Development**, **Android Development**, and **DSA**  
+- 🤝 Looking to collaborate on **Web Development** and **Android Development projects**  
+- 🧠 Passionate about solving **DSA** challenges and exploring **Competitive Programming**  
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/akashtripathiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashtripathiiiii" height="30" width="40" /></a>
 <a href="https://www.instagram.com/akashtripathiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashtripathiiiii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashtripathiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashtripathiiiii" height="30" width="40" /></a>
 </p>
 
 ### Languages & Technologies
@@ -76,8 +75,13 @@
 
 <br><br><br><br>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashtripathiiiii&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="akashtripathiiiii" /></p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=akashtripathiiiii&show_icons=true&locale=en&theme=blue-green" alt="akashtripathiiiii" />  
+</p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashtripathiiiii&show_icons=true&locale=en&theme=blue-green" alt="akashtripathiiiii" /></p>
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashtripathiiiii&theme=blue-green" alt="akashtripathiiiii" />  
+</p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashtripathiiiii&" alt="akashtripathiiiii" /></p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashtripathiiiii&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="akashtripathiiiii" />
