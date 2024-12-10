@@ -10,12 +10,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashtripathiiiii" alt="akashtripathiiiii" /></a> </p>
 <hr>
-<h3 align="left">I am a Developer</h3>
+<h3 align="left">I am an Aspiring Software Developer</h3>
 
-- 🎓 **B.Tech Graduate (2024)** from Lovely Professional University  
-- 🧑‍💻 Currently learning **Web Development**, **Android Development**, and **DSA**  
-- 🤝 Looking to collaborate on **Web Development** and **Android Development projects**  
-- 🧠 Passionate about solving **DSA** challenges and exploring **Competitive Programming**  
+  🎓 **B.Tech Graduate (2024)** from Lovely Professional University  
+  🧑‍💻 Currently learning **Web Development**, **Android Development**, and **DSA**  
+  🤝 Looking to collaborate on **Web Development** and **Android Development projects**  
+  🧠 Passionate about solving **DSA** challenges and exploring **Competitive Programming**  
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
@@ -75,6 +75,10 @@
 
 <br><br><br><br>
 <hr>
+
+### GitHub Stats
+<hr/>
+
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=akashtripathiiiii&show_icons=true&locale=en&theme=blue-green" alt="akashtripathiiiii" />  
 </p>  
