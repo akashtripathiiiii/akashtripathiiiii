@@ -82,6 +82,7 @@
 <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashtripathiiiii&show_icons=true&locale=en&theme=blue-green" alt="akashtripathiiiii" />  
 </p>
+
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashtripathiiiii&theme=blue-green" alt="akashtripathiiiii" />  
  </p>
